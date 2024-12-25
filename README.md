@@ -5,3 +5,5 @@ Hello Odin!
 Goodbye Odin!
 
 Hello Loki!
+
+Goodbye Loki!
