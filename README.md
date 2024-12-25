@@ -7,5 +7,3 @@ Goodbye Odin!
 Hello Loki!
 
 Goodbye Loki!
-
-Good day!
