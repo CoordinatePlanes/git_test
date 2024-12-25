@@ -9,3 +9,5 @@ Hello Loki!
 Goodbye Loki!
 
 Hello Thor!
+
+Goodbye Thor!
